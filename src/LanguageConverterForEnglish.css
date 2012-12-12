@@ -1,0 +1,24 @@
+/* Add [[Image:Flag of the United Kingdom.svg]] */
+#p-variants-js li#ca-conv-en-gb a,
+#p-variants-js h4.flag-en-gb {
+	background: url("//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png") no-repeat scroll left center transparent;
+	padding-left:40px;
+}
+/* Add [[Image:Flag of the United States-svgtest.svg]] */
+#p-variants-js li#ca-conv-en-us a,
+#p-variants-js h4.flag-en-us {
+	background: url("//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png") no-repeat scroll left center transparent;
+	padding-left:40px;
+}
+/* General formatting */
+#p-variants-js li a {
+	background-position: 5px !important;
+}
+ 
+#p-variants-js h4 {
+	background-position: 5px 13px !important;
+}
+/* Define formatting for changes in the text */
+.v-en-gb, .v-en-us {
+	background-color: #AAFFAA;
+}
