@@ -118,4 +118,4 @@ window.LanguageConverter.config = {
 }; // Config
 
 // Import [[oldwikisource:User:Helder.wiki/Scripts/LanguageConverter.js]] to allow language conversion
-mw.loader.load( '//wikisource.org/w/index.php?title=User:Helder.wiki/Scripts/LanguageConverter.js&action=raw&ctype=text/javascript&smaxage=21600&maxage=86400' );
+mw.loader.load( '//wikisource.org/w/index.php?title=User:Helder.wiki/Scripts/LanguageConverter.js&action=raw&ctype=text/javascript' );
