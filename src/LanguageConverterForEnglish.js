@@ -29,7 +29,7 @@ window.LanguageConverter.config = {
 	* in the current wiki
 	*/
 	variants_list : {
-		'en':'Original spellings', // Default language == wgContentLanguage
+		'en':'Original spellings', // Default language == mw.config.get('wgContentLanguage')
 		'en-gb':'British spellings',
 		'en-us':'American spellings'
 	},
