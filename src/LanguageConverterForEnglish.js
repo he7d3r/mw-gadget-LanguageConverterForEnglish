@@ -1,5 +1,3 @@
-// Keep the line below. It is used to check the global usage of the script at [[Special:GlobalUsage/User:Helder.wiki/Scripts/LanguageConverter.js]]
-// [[File:User:Helder.wiki/Scripts/LanguageConverter.js]]
 /*jslint browser: true, white: true */
 /*global mw */
 if ( window.LanguageConverter === undefined ) {
