@@ -115,5 +115,5 @@ window.LanguageConverter.config = {
 	max_seq		 : 3
 }; // Config
 
-// Import [[oldwikisource:User:Helder.wiki/Scripts/LanguageConverter.js]] to allow language conversion
-mw.loader.load( '//wikisource.org/w/index.php?title=User:Helder.wiki/Scripts/LanguageConverter.js&action=raw&ctype=text/javascript' );
+// Import [[oldwikisource:User:He7d3r/Tools/LanguageConverter.js]] to allow language conversion
+mw.loader.load( '//wikisource.org/w/index.php?title=User:He7d3r/Tools/LanguageConverter.js&action=raw&ctype=text/javascript' );
