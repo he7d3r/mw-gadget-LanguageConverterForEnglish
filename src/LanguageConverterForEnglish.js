@@ -1,5 +1,3 @@
-/*jslint browser: true, white: true */
-/*global mw */
 if ( window.LanguageConverter === undefined ) {
 	window.LanguageConverter = {};
 }
